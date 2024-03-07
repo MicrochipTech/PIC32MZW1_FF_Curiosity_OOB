@@ -39,7 +39,7 @@
 extern "C" {
 
 #endif
-#define APP_VERSION "3.0.0"
+#define APP_VERSION "WFI32E02_CURIOSITY_HPC_1.0.0"
 
 void APP_Initialize ( void );
 void APP_Tasks ( void );

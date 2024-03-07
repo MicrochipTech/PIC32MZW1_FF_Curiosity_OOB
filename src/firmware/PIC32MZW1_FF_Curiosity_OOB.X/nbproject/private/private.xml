@@ -10,6 +10,11 @@
             <file>file:/D:/temp/PIC32MZW1_Curiosity_OOB/src/firmware/src/mqtt_app.h</file>
             <file>file:/D:/temp/PIC32MZW1_Curiosity_OOB/src/firmware/src/app_wifi.c</file>
         </group>
-        <group/>
+        <group>
+            <file>file:/D:/Rio2-C0_FF_OOB_support/GitHub_firstPush/PIC32MZW1_FF_Curiosity_OOB/src/firmware/src/app.h</file>
+            <file>file:/D:/Rio2-C0_FF_OOB_support/GitHub_firstPush/PIC32MZW1_FF_Curiosity_OOB/src/firmware/src/msd_app.h</file>
+            <file>file:/D:/Rio2-C0_FF_OOB_support/GitHub_firstPush/PIC32MZW1_FF_Curiosity_OOB/src/firmware/src/msd_app.c</file>
+            <file>file:/D:/Rio2-C0_FF_OOB_support/GitHub_firstPush/PIC32MZW1_FF_Curiosity_OOB/src/firmware/src/config/pic32mz_w1_curiosity/system/fs/src/sys_fs.c</file>
+        </group>
     </open-files>
 </project-private>
